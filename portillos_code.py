@@ -171,7 +171,7 @@ def get_dat_code():
 
 if __name__ == "__main__":
     codes = []
-    num = int(input("How many of these bitches you want?????????????????? "))
+    num = int(input("How many codes would you like?  "))
     for i in range(num):
         codes.append(get_dat_code())
         
